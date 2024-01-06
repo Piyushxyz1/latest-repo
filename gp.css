@@ -1,0 +1,473 @@
+.bro{
+    background-attachment: fixed;
+      width: 100%;
+      height: 100vh;
+      background: url(https://bootstrapmade.com/demo/templates/Gp/assets/img/hero-bg.jpg) top center;
+      background-size: cover;
+      
+}
+
+
+.header1{
+      display: flex;
+      justify-content: space-evenly;
+    
+}
+
+.gp a{
+   position: absolute;
+    color: #fff;
+    font-size: 32px;
+    margin-top: 23px;
+    margin-left: -43px;
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+}
+
+
+
+.dot{
+    color: #ffc451;
+    position: absolute;
+    padding-left: -17px;
+}
+
+.top{
+    display: flex;
+    list-style: none;
+    padding: 6px 10px;
+    color: #fff;
+    font-size: 17px;
+    font-family: "Open Sans", sans-serif;
+    
+}
+.home {
+    color: #ffc451;
+    padding: 6px 10px;
+    font-size: 17px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.get{
+    
+    color: #fff;
+    padding: 7px 25px 8px 25px;
+    font-size: 17px;
+    display: inline-block;
+    border: 2px solid #ffc451;
+    width: 78px;
+    height: 19px;
+    margin-top: 23px;
+}
+
+.power{
+    text-align: center;
+    top: 100px;
+    bottom: 0;
+    left: 426px;
+    position: absolute;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 64px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+    
+.we {
+    font-size: 22px;
+    position: absolute;
+    top: 148px;
+    left: 48px;
+}
+
+.header2 
+{
+    display: flex;
+
+}
+
+.font{
+    border: 1px solid white;
+    width: 163px;
+    height: 100px ;
+    margin-top: 333px ;
+    text-align: center;
+    padding-top: 38px;
+    margin-left: 229px;
+    margin-right: -187px;
+}
+
+.font:hover{
+    border: 2px solid #ffc451;
+}
+
+.aa:hover {
+     border: 2px solid #ffc451;
+}
+
+.header3{
+    display: flex;
+    margin-right: 42px;
+    margin-left: 42px;
+}
+
+li{
+    list-style: none;
+}
+
+.boot {
+    width: 100% ;
+    height: auto;
+    margin-top: 63px;
+    
+}
+
+.sit{
+    font-weight: 700;
+    font-size: 33px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 20px;
+    margin-top: 63px;
+}
+.sed{
+    font-style: italic;
+    margin-top: -13px;
+    font-size: 16px;
+}
+
+.lg{
+    font-size: 18px;
+    padding: 0 0 8px 26px;
+    font-family: "Open Sans", sans-serif;
+    color: #08090a;
+    
+}
+
+.pg{
+    margin-top: 60px;
+}
+
+.ut{
+    font-family: "Open Sans", sans-serif;
+    color: #08090a;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.header4{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.png{
+    margin-top: 50px;
+    width: 90px;
+    height: 46px;
+}
+
+.header5{
+    display:flex;
+    width: 92%;
+}
+.img{
+    width: 75%;
+    height: auto;
+    margin-top: 72px;
+}
+.head1{
+    margin-top: 59px;
+    margin-right: 20px;
+    margin-left: -30px;
+}
+
+#fa {
+    float: left;
+}
+
+.receipt{
+    padding-bottom: 20px;
+}
+.ad{
+    padding-top: 11px;
+    margin-left: 42px;
+    font-size: 21px;
+    position: relative;
+    top: -25px;
+    font-family: "Raleway", sans-serif;
+}
+
+
+.sunt{
+    position: relative;
+    top: -37px;
+    font-family: "Raleway", sans-serif;
+}
+.esse{
+    font-size: 21px;
+    position: relative;
+    top: -8px;
+    left: 15px;
+    font-family: "Raleway", sans-serif;
+}
+ .cube{
+    margin-top: -35px;
+ }
+
+ .sint{
+    position: relative;
+    top: -28px;
+    font-family: "Raleway", sans-serif;
+}
+
+.aut{
+    font-size: 21px;
+    position: relative;
+    top: -8px;
+    left: 15px;
+    font-family: "Raleway", sans-serif;
+}
+ 
+.cum{
+    position: relative;
+    top: -28px;
+    font-family: "Raleway", sans-serif;
+}
+
+.beat{
+    font-size: 21px;
+    position: relative;
+    top: -8px;
+    left: 15px;
+    font-family: "Raleway", sans-serif;
+}
+
+.denat{
+    position: relative;
+    top: -28px;
+    font-family: "Raleway", sans-serif;
+}
+
+.header6 h2{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin-left: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    font-family: "Poppins", sans-serif;
+}
+
+.our{
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #151515;
+    margin-left: 15px;
+    margin-top: 14px;
+}
+
+.header7{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.head2{
+    border: 1px solid #ebebeb;
+    width: 384px;
+    height: 223px;
+    text-align: center;
+    padding-top: 80px;
+    position: relative;
+    left: 40px;
+}
+    
+.head3{
+    border: 1px solid #ebebeb;
+    width: 384px;
+    height: 223px;
+    text-align: center;
+    padding-top: 80px;
+    position: relative;
+    left: -6px;
+}
+
+.head4{
+    border: 1px solid #ebebeb;
+    width: 384px;
+    height: 223px;
+    text-align: center;
+    padding-top: 80px;
+    position: relative;
+    left: -50px;
+}
+
+.lor{
+    color: #151515;
+    font-size: 24px;
+}
+
+.lor:hover{
+    color: #ffc451;
+}
+
+.ra{
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    color: #444444;
+}
+
+.header8{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.header9 h2{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin-left: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    font-family: "Poppins", sans-serif;
+    margin-top: 63px;
+
+}
+
+.head5{
+   display: flex;
+   margin-left: 640px;
+}
+
+.all {
+    margin-left: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+.lol{
+    font-family: "Open Sans", sans-serif;
+    border: 1px solid #ffc451;
+    background-color: #ffc451;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 15px;
+}
+
+.header10{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img1{
+    width: 390px;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+.img2{
+    width: 390px;
+    height: 600px;
+}
+
+.img3{
+    width: 400px;
+    height: 345px;
+    margin-bottom: 20px;
+}
+
+.img4{
+    width: 400px;
+    height: 582px;
+    margin-bottom: 20px;
+}
+
+.img5{
+    width: 400px;
+    height: 272px;
+}
+
+.img6{
+    width: 400px;
+    height: 305px;
+    margin-bottom: 20px;
+}
+.img7{
+    width: 400px;
+    height: 280px;
+    margin-bottom: 20px;
+}
+.img8{
+    width: 400px;
+    height: 290px;
+}
+
+.img9{
+    width: 400px;
+    height: 276px;
+    margin-bottom: 20px;
+}
+
+.header11{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.img10{
+    width: 594px;
+    height: 460px;
+    margin-left: 10px;
+}
+
+.qu{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+    color: #151515;
+    margin-left: 47px;
+}
+
+.ut{
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    margin-left: 51px;
+    margin-top: -18px;
+}
+.head6{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 46px;
+    margin-top: 73px;
+}
+
+.six {
+    font-size: 36px;
+    line-height: 30px;
+    display: block;
+    font-weight: 700;
+    color: #151515;
+    margin-left: 50px;
+    margin-top: -25px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.four{
+    padding: 15px 0 0 0;
+    margin: 0 0 0 50px;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    color: #3b3b3b;
+}
+
+.head7{
+    display: flex;
+    justify-content: space-evenly;
+}
+

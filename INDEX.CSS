@@ -1,0 +1,288 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ 
+ body {
+    background-image: url("gearsofwar.png");
+    background-repeat: no-repeat;
+    background-color:#080808;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(18,18,62);
+}
+.wreck{
+    font-size: 1.5rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    list-style: none;
+    margin: 0 23px ;
+    
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover {
+    color : rgb(150, 150, 241);
+    font-size: 1.02rem;
+}
+
+main hr {
+    border: 0;
+    background: #9c97f1;
+    height: 1.2px;
+    margin: 60px 84px;
+}
+
+.fistboom{
+    display: flex ;
+    justify-content: space-around;
+    align-items: center;
+    margin: 130px 0px;
+}
+
+.div-left {
+    font-size: 2rem ;
+}
+
+.fistboom > div {
+    width: 30%;
+}
+ 
+.rightsection img {
+    width: 80%;
+    
+}
+.purple {
+    color: rgb(170, 107, 228)
+}
+
+.textgray { 
+    color : gray ;
+    text-align:center;
+     margin: 0 auto;}
+
+
+.textgray h1 {text-align:center;
+}
+     
+
+.secondsection {
+    max-width: 80vw;
+    margin: auto
+    ;
+}
+.secondsection h1 {
+    font-size: 1.9rem;
+}
+
+.box {
+    background: white;
+    width: 40vw;
+    height: 2px;
+    margin: 56px 112px;
+    display: flex;
+    
+}
+
+.vertical {
+    height: 60px;
+    width: 1px;
+    background-color: white;
+    margin: 0px 147px;
+}
+.img-top{
+    width: 30px;
+    position: relative;
+    top: -32px;
+    left: -15px;
+}
+
+.verticaltext {
+    position: relative;
+    top: 36px;
+    left:-22px;
+    font-size: 1.4rem;
+
+}
+
+.vertical1 {
+    height: 60px;
+    width: 1px;
+    background-color: white;
+    margin: 0px 147px;
+}
+.img-top1{
+    width: 30px;
+    position: relative;
+    top: -38px;
+    left: -15px;
+}
+
+.verticaltext1 {
+    position: relative;
+    top: 28px;
+    left:-22px;
+    font-size: 1.4rem;
+
+}
+
+.lol {
+    border: 0;
+    background: #9c97f1;
+    height: 1.5px;
+
+    margin: 60px 84px;
+   margin-top: 150px;          
+}
+
+.thirdsection{
+    max-width: 80vw;
+    margin: auto;
+}
+ .twopart{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ }
+
+ .part-ul{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+ }
+
+ .thirdsection h1 {
+    font-size: 2rem;
+    padding-bottom : 20px
+ }
+ .thirdsection p {
+    padding-bottom: 20px;
+ }
+ .lol1 {
+    border: 0;
+    background: #9c97f1;
+    height: 1.5px;
+
+    margin: 60px 84px;
+   margin-top: 50px;          
+}
+.fourthsection{
+    max-width: 80vw;
+    margin: auto;
+}
+
+.pro1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.ww{
+    margin: auto 332px;
+  }
+  .uu{
+    text-align: center;
+    margin-top: 50px;
+    font-family:  Arial, sans-serif;
+  }
+  
+  .vv{
+     text-align: center;
+     color: gray;
+     margin-top: -16px;
+    }
+  
+    .xx{
+      margin-bottom: 50px;
+    }
+  
+    .yy{
+      margin-left: 10px;
+      
+    }
+   .zz{
+    margin-bottom: 15px;
+    
+   }
+     
+   .aaa{
+    
+    display: inline-block;
+    height: 208px;
+    width: 198px;
+   }
+    
+   .bbb{
+    display: inline-block;
+    float: right;
+   }
+
+   .ccc{
+    width: 191px;
+    height: 31px;
+   }
+   .ddd{
+    width: 389px;
+    height: 31px;
+    margin-top: 4px;
+   }
+  
+   .eee{
+    float: right;
+    height: 30px;
+    width: 61px;
+    background-color: rgb(98, 81, 245);
+    color: white;
+    margin-top: 4px;
+  
+   }
+@media  screen  and (max-width:1024px){
+    .twopart{
+        display: table-caption;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+
+    .bbb{
+        margin: -66px;
+    }
+    
+}
+@media screen and (min-width: 425px) {
+   
+    
+    
+        
+    }
+
+    .line{
+        width: 33px;
+        background-color: lavender;
+        height: 4px;
+        margin: 4px 4px;
+        position: absolute;
+        top: 15px;
+        left: 10px;
+        right :10px
+    }
+    
+    
+   
